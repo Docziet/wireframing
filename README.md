@@ -103,5 +103,5 @@ Wireframing plays a **critical role** in ensuring a user-friendly design. It act
 
 ---
 
-✍️ **Author:** ALX Student  
+✍️ **Author:** Okereke David Chidozie
 📂 **Repo:** wireframing
